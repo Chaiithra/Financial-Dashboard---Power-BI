@@ -16,7 +16,7 @@ The list of calculations made are as follows:
 2. Orders LY
 3. Profit LY
 4. Profit Margin LY
-5. Discount Offered LY
+5. Discount Offered LY.                                                                                                                                                       
 And, we also format each of these calculations respectively.
 ## Step - 3: ##
 We customize the report theme as it saves us a lot of time and effort.
@@ -29,6 +29,6 @@ Secondly, we now make all the 6 major visualizations which are :
 3. Percentage of Discount offered by Discount Band
 4. Profit Margin by Segment ( Conditional Formatting is used )
 5. Sales Amount by Year and Month
-6. Top 3 products by Sales ( Conditional Formatting is used )
+6. Top 3 products by Sales ( Conditional Formatting is used ).                                                                                                              
 Finally, we make the most critical information carrying Matrix named as " Profit Margin by Segment and Profit ". In this Matrix, Rows are Segment and Product, Values are Profit Margin. We also add 3 icons here, each of those description can be understood from the Dashboard.
 In this way, the "Financials Dashboard" is created.
